@@ -1,0 +1,9 @@
+cloud_param: "/camera/depth/points"
+cloud_output: "output"
+distance_threshold: 10
+filter_field_name: "z"
+filter_limit_min: 0.0
+filterLimitMax: 1.0
+point_color_threshold: 6
+region_color_threshold: 5
+min_cluster_size: 600
